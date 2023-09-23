@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d98b33;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* ナビゲーションメニューのスタイル */
+nav {
+    background-color: #32ca37;
+    color: #fff;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
