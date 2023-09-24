@@ -265,7 +265,7 @@ html {
   
     /*IE7 inline-block fix*/
     zoom: 1;
-    *display:inline;
+    *display:inline;/*error is here*/
   
     margin: 0;
     outline: none;
